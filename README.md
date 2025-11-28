@@ -9,17 +9,17 @@ The report consists of **three professional dashboards**, designed with a luxury
 ## 🖼 Dashboard Screenshots
 
 ### 📌 Dashboard 1 – Executive Sales Overview  
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](https://github.com/varun-anumalla/Chronos-Lux-Watch-Sales-Customer-Insights-Dashboard/blob/main/Dashboard%20images/Dashboard-1.png)
 
 ---
 
 ### 📌 Dashboard 2 – Buyer Behavior & Product Insights  
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](https://github.com/varun-anumalla/Chronos-Lux-Watch-Sales-Customer-Insights-Dashboard/blob/main/Dashboard%20images/Dashboard-2.png)
 
 ---
 
 ### 📌 Dashboard 3 – Detailed Performance Insights  
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](https://github.com/varun-anumalla/Chronos-Lux-Watch-Sales-Customer-Insights-Dashboard/blob/main/Dashboard%20images/Dashboard-3.png)
 
 ---
 
