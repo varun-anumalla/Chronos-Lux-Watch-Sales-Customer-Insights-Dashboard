@@ -29,7 +29,7 @@ https://youtu.be/Video-link
 
 ---
 
-## Business Problem Statement — No Insights Into Customer Behavior & Return Issues
+## Business Problem Statement
 
 "The company was facing frequent product returns and inconsistent customer ratings. But they had no way to understand which age groups were buying more, which sales channels were performing best, why customers were returning products, or which models had quality issues.
 
